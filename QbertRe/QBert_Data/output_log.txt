@@ -1,0 +1,46 @@
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Antoine\Downloads\Qbert supinfo\QBert_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Antoine\Downloads\Qbert supinfo\QBert_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Antoine\Downloads\Qbert supinfo\QBert_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Antoine\Downloads\Qbert supinfo\QBert_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Antoine\Downloads\Qbert supinfo\QBert_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Antoine\Downloads\Qbert supinfo\QBert_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Antoine\Downloads\Qbert supinfo\QBert_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Antoine\Downloads\Qbert supinfo\QBert_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Antoine\Downloads\Qbert supinfo\QBert_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Antoine\Downloads\Qbert supinfo\QBert_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.178 seconds
+Platform assembly: C:\Users\Antoine\Downloads\Qbert supinfo\QBert_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Antoine\Downloads\Qbert supinfo\QBert_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 0.721222 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 5bc -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.157590 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 213.
+Total: 0.354097 ms (FindLiveObjects: 0.030396 ms CreateObjectMapping: 0.020922 ms MarkObjects: 0.287778 ms  DeleteObjects: 0.013816 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.821728 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 534.
+Total: 0.286988 ms (FindLiveObjects: 0.031975 ms CreateObjectMapping: 0.018158 ms MarkObjects: 0.216327 ms  DeleteObjects: 0.019737 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.839965 ms
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 536.
+Total: 1.054398 ms (FindLiveObjects: 0.102637 ms CreateObjectMapping: 0.080135 ms MarkObjects: 0.728722 ms  DeleteObjects: 0.141323 ms)
+
